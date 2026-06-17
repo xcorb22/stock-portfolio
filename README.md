@@ -20,13 +20,23 @@ This is a single-page web app that lets a user track everything they own in one 
 
 ## Screenshots
 
-> _Add screenshots here, e.g. `docs/dashboard.png`, then reference them:_
->
-> `![Dashboard](docs/dashboard.png)`
+### Dashboard
+Total value, realized vs unrealized P&L, allocation donut, S&P 500 benchmark, today's movers and a value-over-time chart.
 
-| Dashboard | Analysis | Asset detail |
-| --- | --- | --- |
-| _value, allocation, benchmark, history_ | _sector & asset-class breakdown_ | _fundamentals + news_ |
+![Dashboard](docs/Dashboard01.png)
+
+| Allocation by sector | Diversification analysis |
+| --- | --- |
+| ![Sector allocation](docs/Dashboard02-Sector.png) | ![Analysis](docs/Analysis01.png) |
+
+| Multi-asset holdings (with Sell) | Portfolios |
+| --- | --- |
+| ![Holdings](docs/Holding01.png) | ![Portfolios](docs/Portfolios01.png) |
+
+### Research — look up any stock or coin
+| Stocks: fundamentals + recent news | Crypto: live market data |
+| --- | --- |
+| ![Research a stock](docs/Research01.png) | ![Research a coin](docs/Research02.png) |
 
 ## Key features
 
